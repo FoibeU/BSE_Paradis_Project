@@ -118,9 +118,8 @@ body, h1, h2, h3, p, ul, li, blockquote {
   }
   
   
-  
-  
-   .flex-item{
+ 
+  .flex-item{
     background:gainsboro;
     margin: 0 5px;
     margin-left: 5%;
