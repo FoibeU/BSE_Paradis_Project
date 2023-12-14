@@ -1,0 +1,16 @@
+.api-call {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.request, .response {
+  flex: 1;
+  padding: 5px;
+}
+
+.arrow {
+  font-size: 2em;
+  padding: 0 10px;
+}
