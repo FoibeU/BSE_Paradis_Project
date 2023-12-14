@@ -1,0 +1,17 @@
+.workflow-steps {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 10px;
+}
+
+.step {
+  border: 1px solid #ddd;
+  padding: 5px;
+  text-align: center;
+  width: 150px;
+}
+
+.active {
+  background-color: #eee;
+}
